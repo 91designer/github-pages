@@ -1,4 +1,6 @@
 {
-  title : "github",
-  languages : ["html5", "css", "js", "jQuery"]
+  "title" : "github",
+  "languages" : ["html5", "css", "js", "jQuery"],
+  "apps" : ["photoshop", "illustrator", "github"],
+  "editors" : ["atom", "vs code"]
 }
